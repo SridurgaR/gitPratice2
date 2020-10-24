@@ -1,3 +1,4 @@
+// Hi
 var trex, trex_running, trex_collided;
 var ground, ground_image, invisible_ground;
 var cloud, cloud_image;
